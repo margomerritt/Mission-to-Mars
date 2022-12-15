@@ -2,3 +2,7 @@
 ## Overview of Project
 ### Purpose
 
+The goal of this project is to gather information about the climate of Mars and to collect news items about Mars missions. The information for this project isn't readily available in CSv or JSON files. However, the information is found on public websites. This information is collected and organized from the websites by web scraping. Utilizes automated browsing with Splinter and HTML parsing with Beautiful Soup. 
+
+### Resources
+Software: Beautiful Soup 4.11.1, Splinter, Python 3.9.12, Jupyter Notebook 6.4.8, Pandas 1.4.2, 
